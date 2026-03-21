@@ -1,0 +1,59 @@
+# =========================
+# Build artifacts
+# =========================
+*.o
+*.obj
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.lss
+
+# AVR specific outputs
+*.eep
+*.srec
+
+# =========================
+# Build directories
+# =========================
+build/
+dist/
+out/
+Debug/
+Release/
+
+# =========================
+# Dependency / intermediate files
+# =========================
+*.d
+
+# =========================
+# Editor / IDE files
+# =========================
+
+# VS Code
+.vscode/
+
+# CLion / JetBrains
+.idea/
+cmake-build-*/
+
+# Eclipse / AVR Studio / Atmel Studio
+.settings/
+.project
+.cproject
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Temporary files
+# =========================
+*.log
+*.tmp
+*.swp
+*~
