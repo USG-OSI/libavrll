@@ -17,6 +17,7 @@
 # =========================
 # Build directories
 # =========================
+tests/
 build/
 dist/
 out/
