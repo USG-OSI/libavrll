@@ -28,6 +28,7 @@ Release/
 # Dependency / intermediate files
 # =========================
 *.d
+*notes.md
 
 # =========================
 # Editor / IDE files
